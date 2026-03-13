@@ -26,3 +26,9 @@ This repository contains the coursework and practical notebook files for the DLN
 1. Open this repository in VS Code.
 2. Launch Jupyter support and open any notebook from the `Notebook` folder.
 3. Run notebook cells in order with a Python environment that has the required ML/NLP libraries.
+
+## Practical Scope
+
+- Practical files cover foundational deep learning and NLP experiments.
+- Naming convention follows practical number and enrollment identifier.
+- This repository is organized to keep datasets and notebooks separated for clarity.
