@@ -20,3 +20,9 @@ This repository contains the coursework and practical notebook files for the DLN
 - `Notebook/Practical_4_B_23AIML042.ipynb`
 - `Notebook/Practical_5_23AIML042.ipynb`
 - `Notebook/Practical_6_23AIML042.ipynb`
+
+## How To Use
+
+1. Open this repository in VS Code.
+2. Launch Jupyter support and open any notebook from the `Notebook` folder.
+3. Run notebook cells in order with a Python environment that has the required ML/NLP libraries.
